@@ -1,0 +1,17 @@
+name: "Evaluation of an automated on-farm point-of-care device for the identification of bacteria associated with clinical mastitis in United States"
+header-includes: 
+  \usepackage{graphicx}
+  \usepackage{float}
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About Mastatest"
+      href: https://www.mastatest.com/
+    - text: "Code and output"
+      href: mastatest.html
+    - icon: fa-github fa-lg
+      href: http://github.com/fepenamosca/
+output:  
+   html_document:
+    theme: flatly
