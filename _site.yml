@@ -1,4 +1,4 @@
-name: "Evaluation of an automated on-farm point-of-care device for the identification of bacteria associated with clinical mastitis in United States"
+name: "Evaluation of an automated on-farm point-of-care device for the identification of bacteria associated with clinical mastitis on a United States dairy farm"
 header-includes: 
   \usepackage{graphicx}
   \usepackage{float}
@@ -8,6 +8,8 @@ navbar:
   right:
     - text: "About Mastatest"
       href: https://www.mastatest.com/
+    - text: "Data"
+      href: https://github.com/fepenamosca/mastatest_validation.io/tree/be2ef1297cc9a595238de50032173e6c947382da/data
     - text: "Code and output"
       href: mastatest.html
     - icon: fa-github fa-lg
