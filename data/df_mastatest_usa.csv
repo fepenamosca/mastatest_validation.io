@@ -1,0 +1,127 @@
+"","date","id","quarter","mastatest_result","lab_result","fdat","lact"
+"1",2021-11-25,13558,"FR","Klebsiella species / Serratia species","Klebsiella variicola",2021-08-09,3
+"2",2021-11-25,11315,"RL","Streptococcus dysgalactiae","Streptococcus dysgalactiae",2021-09-15,3
+"3",2021-11-25,21271,"FL","Streptococcus species / Unspecified","NG",2021-02-22,2
+"4",2021-11-25,9996,"FR","NG","NG",2021-05-27,2
+"5",2021-11-25,7266,"RL","NG","NG",2021-07-14,4
+"6",2021-11-24,22684,"FL","NG","NG",2021-06-21,2
+"7",2021-11-24,11426,"FL","NG","NG",2021-06-08,3
+"8",2021-11-24,71678,"RR","Other Gram positive bacteria / Unspecified","Coryne pseudotuberculosis",2021-01-02,1
+"9",2021-11-24,11426,"RL","Streptococcus uberis","Lactococcus garvieae",2021-06-08,3
+"10",2021-11-24,22684,"FR","NG","NG",2021-06-21,2
+"11",2021-11-24,9428,"RL","NG","NG",2021-09-20,4
+"12",2022-03-01,22991,"FR","Streptococcus species / Unspecified","Enterococcus spp.",2021-08-07,2
+"13",2022-03-01,22715,"RR","E. coli / Unspecified Gram negative","NG",2021-11-10,2
+"14",2022-03-01,9680,"FL","NG","Coryne xerosis",2021-06-06,3
+"15",2022-03-01,9496,"FL","Streptococcus species / Unspecified","Coryne xerosis",2021-07-02,2
+"16",2022-03-02,242,"FR","Streptococcus species / Unspecified","Coryne variabile",2021-11-13,5
+"17",2022-03-02,8880,"FR","NG","NG",2021-09-22,5
+"18",2022-03-02,28620,"RR","E. coli / Unspecified Gram negative","E.coli",2022-01-17,1
+"19",2022-03-02,42036,"RR","Streptococcus species / Unspecified","Streptococcus dysgalactiae",2021-11-25,3
+"20",2022-03-02,51887,"RR","NG","NG",2021-08-04,3
+"21",2022-03-02,86030,"FR","Streptococcus species / Unspecified","Coryne variabile",2021-06-23,4
+"22",2022-03-04,21994,"FR","Streptococcus species / Unspecified","Lactococcus garvieae",2021-05-02,2
+"23",2022-03-04,21974,"FL","E. coli / Unspecified Gram negative","E.coli",2021-11-26,2
+"24",2022-03-05,273,"FR","NG","Staph chromogenes",2021-02-28,1
+"25",2022-03-05,17449,"FL","Streptococcus uberis","Staph chromogenes",2022-01-02,3
+"26",2022-03-05,10191,"FL","Streptococcus dysgalactiae","Streptococcus dysgalactiae",2021-12-14,6
+"27",2022-03-05,21070,"FL","NG","NG",2021-12-30,3
+"28",2022-03-05,10191,"FR","NG","NG",2021-12-14,6
+"29",2022-03-05,21216,"FR","NG","NG",2022-01-19,3
+"30",2022-03-05,9340,"RL","Streptococcus uberis","Streptococcus uberis",2022-02-05,5
+"31",2022-03-05,22870,"FR","Streptococcus species / Unspecified","Lactococcus garvieae",2021-06-18,2
+"32",2022-03-05,9924,"RL","NG","NG",2022-01-24,3
+"33",2022-03-05,711,"FR","Other Gram positive bacteria / Unspecified","Staph chromogenes",2022-02-28,1
+"34",2022-03-06,20564,"FL","NG","NG",2021-09-17,3
+"35",2022-03-06,6569,"FL","Streptococcus species / Unspecified","Streptococcus dysgalactiae",2021-10-07,3
+"36",2022-03-06,10765,"FL","NG","NG",2021-09-13,4
+"37",2022-03-06,21083,"RR","Other Gram positive bacteria / Unspecified","Streptococcus dysgalactiae",2021-10-11,3
+"38",2022-03-06,11829,"RR","Streptococcus species / Unspecified","Enterococcus pseudoavium",2021-12-21,4
+"39",2022-03-06,16876,"RR","Streptococcus uberis","Streptococcus uberis",2022-02-22,3
+"40",2022-03-07,3292,"FL","Streptococcus uberis","NG",2021-11-30,4
+"41",2022-03-07,58435,"RR","NG","NG",2022-02-08,4
+"42",2022-03-07,28519,"RR","E. coli / Unspecified Gram negative","E.coli",2021-12-17,1
+"43",2022-03-07,23011,"RL","NG","Trueperella pyogenes",2021-08-09,2
+"44",2022-03-07,27772,"FL","E. coli / Unspecified Gram negative","E.coli",2021-09-20,1
+"45",2022-03-08,946,"FL","Streptococcus species / Unspecified","Streptococcus dysgalactiae",2022-01-19,5
+"46",2022-03-08,1183,"FR","NG","Coryne xerosis",2022-02-12,5
+"47",2022-03-08,4072,"FR","E. coli / Unspecified Gram negative","E.coli",2022-01-26,5
+"48",2022-03-08,9813,"FR","NG","NG",2021-07-07,4
+"49",2022-03-08,21216,"FL","NG","Coryne xerosis",2022-01-19,3
+"50",2022-03-08,23466,"FR","NG","NG",2021-11-16,2
+"51",2022-03-08,59310,"FL","Streptococcus uberis","Streptococcus spp.",2022-01-16,4
+"52",2022-03-09,9614,"FR","Streptococcus species / Unspecified","Streptococcus dysgalactiae",2021-08-16,4
+"53",2022-03-09,10168,"RR","Streptococcus species / Unspecified","Enterococcus faecium",2021-06-03,5
+"54",2022-03-09,17291,"FR","Streptococcus uberis","Streptococcus dysgalactiae",2021-08-14,5
+"55",2022-03-09,23347,"RR","E. coli / Unspecified Gram negative","E.coli",2022-01-07,2
+"56",2022-03-09,29099,"RR","NG","NG",2022-02-04,1
+"57",2022-03-09,71636,"RR","NG","NG",2021-02-06,1
+"58",2022-03-09,75663,"RR","E. coli / Unspecified Gram negative","NG",2021-06-29,4
+"59",2022-03-09,76096,"FR","Streptococcus species / Unspecified","Lactococcus garvieae",2021-12-24,5
+"60",2022-03-10,11614,"FL","Streptococcus species / Unspecified","NG",2022-01-24,3
+"61",2022-03-10,24536,"RR","Streptococcus species / Unspecified","Streptococcus dysgalactiae",2021-09-30,2
+"62",2022-03-10,26984,"FL","NG","E.coli",2021-08-06,1
+"63",2022-03-10,28845,"RR","Streptococcus species / Unspecified","Streptococcus dysgalactiae",2022-02-22,1
+"64",2022-03-10,76697,"FR","Other Gram positive bacteria / Unspecified","NG",2022-02-05,5
+"65",2022-03-11,113,"RR","NG","Micrococcus lylae",2021-05-01,4
+"66",2022-03-11,71636,"FL","NG","NG",2021-02-06,1
+"67",2022-03-11,75705,"FL","E. coli / Unspecified Gram negative","E.coli",2022-01-27,5
+"68",2022-03-12,717,"RR","Streptococcus species / Unspecified","Staph chromogenes",2022-03-05,1
+"69",2022-03-12,18157,"FR","NG","NG",2021-07-30,3
+"70",2022-03-12,23289,"FL","E. coli / Unspecified Gram negative","NG",2021-08-28,2
+"71",2022-03-12,23567,"FR","Streptococcus species / Unspecified","Streptococcus uberis",2021-07-24,2
+"72",2022-03-12,23963,"RL","NG","NG",2021-10-23,2
+"73",2022-03-12,28047,"FL","NG","Coryne xerosis",2021-11-01,1
+"74",2022-03-13,3649,"FR","Streptococcus uberis","NG",2022-02-12,4
+"75",2022-03-13,3691,"FL","Streptococcus species / Unspecified","Enterococcus pseudoavium",2021-12-08,4
+"76",2022-03-13,5176,"RL","Other Gram positive bacteria / Unspecified","E.coli",2021-09-14,3
+"77",2022-03-13,5347,"FL","NG","NG",2022-01-30,2
+"78",2022-03-13,9806,"RR","Other Gram positive bacteria / Unspecified","Streptococcus dysgalactiae",2021-10-18,5
+"79",2022-03-13,11774,"FL","NG","NG",2021-03-19,3
+"80",2022-03-13,21772,"FL","E. coli / Unspecified Gram negative","E.coli",2022-01-21,3
+"81",2022-03-13,22453,"RL","Streptococcus species / Unspecified","Enterococcus saccharolyticus",2021-09-18,2
+"82",2022-03-13,24747,"RL","E. coli / Unspecified Gram negative","E.coli",2021-02-20,1
+"83",2022-03-13,24840,"RR","NG","E.coli",2021-03-22,1
+"84",2022-03-14,236,"FR","Streptococcus species / Unspecified","Coryne xerosis",2021-12-11,5
+"85",2022-03-14,1920,"RR","Streptococcus dysgalactiae","Streptococcus dysgalactiae",2022-01-26,4
+"86",2022-03-14,9595,"FL","Streptococcus species / Unspecified","Streptococcus dysgalactiae",2021-10-08,4
+"87",2022-03-14,11237,"RR","Coagulase Negative Staphylococcus (CNS)","Staph chromogenes",2021-11-03,3
+"88",2022-03-14,17629,"FL","E. coli / Unspecified Gram negative","E.coli",2021-09-07,3
+"89",2022-03-14,20169,"FR","E. coli / Unspecified Gram negative","E.coli",2021-08-08,3
+"90",2022-03-14,20169,"RR","E. coli / Unspecified Gram negative","E.coli",2021-08-08,3
+"91",2022-03-14,24942,"RR","Streptococcus species / Unspecified","Coryne xerosis",2022-02-08,2
+"92",2022-03-14,28519,"RR","NG","NG",2021-12-17,1
+"93",2022-03-14,28706,"FL","Other Gram positive bacteria / Unspecified","NG",2021-12-08,1
+"94",2022-03-14,29804,"RR","Streptococcus species / Unspecified","E.coli",2022-03-09,1
+"95",2022-03-14,86645,"FR","Streptococcus species / Unspecified","Coryne ammoniagenes/Aerococcus viridans",2022-02-13,5
+"96",2022-03-15,1147,"FR","E. coli / Unspecified Gram negative","NG",2021-08-13,4
+"97",2022-03-15,9799,"RR","NG","NG",2021-08-21,3
+"98",2022-03-15,18169,"FL","NG","NG",2021-10-27,3
+"99",2022-03-15,24152,"RR","NG","NG",2021-11-02,2
+"100",2022-03-15,44424,"FR","NG","NG",2021-10-26,4
+"101",2022-03-16,5784,"FR","Streptococcus species / Unspecified","Streptococcus infantarius",2021-07-23,4
+"102",2022-03-16,8589,"FR","NG","NG",2021-08-17,5
+"103",2022-03-16,22226,"FR","NG","NG",2021-10-14,2
+"104",2022-03-16,23691,"RL","NG","NG",2021-08-05,2
+"105",2022-03-16,29163,"RR","NG","E.coli",2022-01-21,1
+"106",2022-03-16,86244,"FR","Streptococcus uberis","NG",2020-08-27,3
+"107",2022-03-17,9673,"FR","Streptococcus species / Unspecified","Enterococcus saccharolyticus",2021-01-10,3
+"108",2022-03-17,12175,"RL","E. coli / Unspecified Gram negative","Enterococcus saccharolyticus",2021-12-28,4
+"109",2022-03-17,20861,"RL","E. coli / Unspecified Gram negative","NG",2021-09-24,3
+"110",2022-03-17,29651,"RR","Streptococcus uberis","NG",2022-03-01,1
+"111",2022-03-17,76283,"RR","Streptococcus uberis","NG",2022-01-30,5
+"112",2022-03-17,76697,"FR","Streptococcus species / Unspecified","NG",2022-02-05,5
+"113",2022-03-17,85731,"RL","E. coli / Unspecified Gram negative","E.coli",2021-06-29,4
+"114",2022-03-18,1356,"FR","Coagulase Negative Staphylococcus (CNS)","Staph hyicus",2021-04-20,3
+"115",2022-03-18,18541,"FR","Other Gram positive bacteria / Unspecified","NG",2021-09-06,3
+"116",2022-03-18,28483,"RR","NG","NG",2022-01-03,1
+"117",2022-03-18,29037,"RL","Other Gram positive bacteria / Unspecified","Pasteurella multocida",2022-02-14,1
+"118",2022-03-19,11237,"RR","Streptococcus species / Unspecified","Staph chromogenes",2021-11-03,3
+"119",2022-03-19,11507,"RL","E. coli / Unspecified Gram negative","E.coli",2021-12-27,3
+"120",2022-03-19,20860,"FL","E. coli / Unspecified Gram negative","E.coli",2021-12-28,3
+"121",2022-03-19,20879,"RR","NG","NG",2021-09-01,3
+"122",2022-03-19,21216,"FR","Streptococcus species / Unspecified","Coryne spp.",2022-01-19,3
+"123",2022-03-19,21271,"FL","NG","Streptococcus dysgalactiae",2021-02-22,2
+"124",2022-03-19,21433,"RR","Streptococcus species / Unspecified","Coryne xerosis",2021-12-13,3
+"125",2022-03-19,22346,"RL","E. coli / Unspecified Gram negative","NG",2021-06-24,2
+"126",2022-03-19,76398,"FL","NG","NG",2021-11-15,4
